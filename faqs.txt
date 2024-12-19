@@ -1,0 +1,27 @@
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- Frequently Asked Questions-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+1. Question: How do I enroll to course?
+   Answer: You can enroll to your chosen course by clicking on '2'- enroll to course on the Student menu page.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Question: How do I assign a course to a student?
+   Answer: Currently, only administrators have the ability to assign courses to students. If you wish to request a course assignment, contact the admin team.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Question: Can I send messages to students?
+   Answer: Yes, you can send messages to students through the 'Send Message' feature in the Instructor menu by selecting the student's ID and entering your message.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+4. Question: How do I view messages sent to me?
+   Answer: Go to the Instructor menu and select the 'View Messages' option to see all messages sent to you, listed in order of receipt.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Question: How do I enroll in a course?
+   Answer: To enroll in a course, go to the Student menu and select '2' to enroll in your chosen course. Follow the on-screen instructions to complete the enrollment process.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Question: Can I send a message to my instructor?
+   Answer: Yes, you can send a message to your instructor by selecting the appropriate option in the Student menu and entering their ID and message.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Question: What should I do if I forget my student ID?
+   Answer: Contact the administration or use the 'Forgot Student ID' feature (if available) to recover your ID using registered details such as your email or name.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+8. Question: How can I check if my enrollment was successful?
+   Answer: After completing the enrollment process, a confirmation message will appear. You can also check the 'My Courses' section to verify your enrollment.
+------------------------------------------------------------------------------------------------------------------------------------------------------
