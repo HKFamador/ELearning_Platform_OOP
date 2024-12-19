@@ -2,6 +2,6 @@
 CS06 OOP Case Study 3
 
 Members:
-Famador
-Sutacio
+Famador,
+Sutacio,
 Alpuerto
